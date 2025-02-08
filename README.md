@@ -1,2 +1,0 @@
-# deepfake-image-detection
- 
